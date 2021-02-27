@@ -1,6 +1,6 @@
 # 1k
 
-* [x] 1. [Sum(N): 1 + 2 + 3 + .. + N] (https://libre.vn/posts/serial.noob.c.0001)
+* [x] 1. [Sum(N): 1 + 2 + 3 + .. + N](https://libre.vn/posts/serial.noob.c.0001)
   * Feb 20, 2021 - [video](https://www.youtube.com/watch?v=otd9Sj2tV1s)
 * [x] 2. [Sum(N): 1^2 + 2^2 + 3^2 + .. + N^2](https://libre.vn/posts/serial.noob.c.0002)
   * Feb 21, 2021 - [video](https://www.youtube.com/watch?v=zqx_2ntls1w)
